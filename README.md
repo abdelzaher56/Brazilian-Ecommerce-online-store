@@ -17,7 +17,7 @@ This repository contains an end-to-end data engineering pipeline for a Brazilian
 
 The diagram below illustrates the architecture of the solution, which is based on the medallion (bronze-silver-gold) data warehousing pattern.
 
-![Data Warehouse Architecture](visulaization.drawio-1.jpg)
+![Data Warehouse Architecture](pipeline_diagram.png)
 
 **Pipeline Summary:**
 
