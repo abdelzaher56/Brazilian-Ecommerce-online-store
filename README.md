@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains an end-to-end data engineering pipeline for a Brazilian e-commerce dataset. It demonstrates how raw CSV files can be ingested, processed, modeled, and visualized using industry-standard tools. The pipeline leverages Microsoft SQL Server for ETL/ELT operations and Power BI for business analytics and reporting.
+This repository contains an end-to-end data engineering pipeline for a Brazilian e-commerce dataset. It demonstrates how raw CSV files can be ingested, processed, modeled, and visualized using industry-standard tools. The pipeline leverages Microsoft SQL Server for ETL operations and Power BI for business analytics and reporting.
 
 ## Table of Contents
 
