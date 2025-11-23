@@ -12,6 +12,7 @@ This repository contains an end-to-end data engineering pipeline for a Brazilian
 - [Data Warehouse Schema](#data-warehouse-schema)
 - [Visualization](#visualization)
 - [How to Run](#how-to-run)
+- [Team Members](#team-members)
 
 ## Architecture
 
