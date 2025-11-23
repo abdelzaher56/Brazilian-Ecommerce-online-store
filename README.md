@@ -65,4 +65,12 @@ Place the provided CSV files into the `/data` folder or your SQL Server import d
 
 4. **Visualization:**  
 - Open Power BI dashboard in the `/visualization` folder and connect to your SQL Server gold layer or import the exported PBIX file.
+- 
+## Team Members
+- **Omar Khaled**  
+  [www.linkedin.com/in/omarkh25](https://www.linkedin.com/in/omarkh25)
+- **Abdelzaher Mohamed**  
+  [www.linkedin.com/in/abdelzaher56](https://www.linkedin.com/in/abdelzaher56)
+
+
 
