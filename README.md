@@ -53,19 +53,24 @@ The diagram below illustrates the architecture of the solution, which is based o
 ### Business Insights
 
 - What is the distribution of consumers by city and state?
-    The highest customer density appears in Sao Paulo (38k customers), while the rest of the population is scattered around other states.
+
+  The highest customer density appears in Sao Paulo (38k customers), while the rest of the population is scattered around other states.
 
 - What is the highest-selling product category?
-    In all states, the "Toys" category dominates with 75%+ of all product sales.
+
+  In all states, the "Toys" category dominates with 75%+ of all product sales.
 
 - Which Quarter experienced the highest sales? Which experienced the lowest?
-    Peak sales were realized in Q2 of 2018, while sales were at their lowest in Q4 of 2016.
+
+  Peak sales were realized in Q2 of 2018, while sales were at their lowest in Q4 of 2016.
 
 - Which month experienced the highest amount of orders?
-    August 2018 stands out with over 7.2k total orders.
+
+  August 2018 stands out with over 7.2k total orders.
 
 - How many days does the average order get shipped? And how much does it cost to ship the order? 
-    We find that the average order gets delivered around the 7-day mark, with the average shipping cost for each order being around $44. 
+
+  We find that the average order gets delivered around the 7-day mark, with the average shipping cost for each order being around $44. 
 
 ### Dashboard
 Analytical dashboards are built with Power BI, leveraging the gold layer for business insights such as sales trends, customer segmentation, product analytics, and payment behavior.
